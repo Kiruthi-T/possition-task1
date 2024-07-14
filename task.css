@@ -1,0 +1,59 @@
+#rel{
+    border: 1px solid blue;
+    height: 500px;
+    width: 600px;
+    position: relative;
+}
+.circle{
+    border: 1px solid green;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+   
+}
+.c1{
+    position: absolute;
+    top: 200px;
+}
+.c2{
+    position: absolute;
+    top: 200px;
+    right: 0;
+}
+.c3{
+    position: absolute;
+    left: 250px;
+}
+.c4{
+    position: absolute;
+    bottom: 0;
+    left: 250px;
+}
+.sqr{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+}
+.s1{
+    position: absolute;
+
+}
+.s2{
+    position: absolute;
+    bottom: 0;
+}
+.s3{
+    position: absolute;
+    right: 0;
+}
+.s4{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.d9{
+    position: absolute;
+     color: red;
+    margin: 250px;
+    /* padding: 100vh; */
+}
